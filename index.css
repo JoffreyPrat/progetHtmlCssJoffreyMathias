@@ -3,12 +3,12 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: #fefefe;
+    background-color: #622020;
     height: 100%;
     width: 100%;
 }
 .sport{
-    background-color: rgb(255, 0, 0);
+    background-color: #810000;
     border-radius: 4px;
     text-align: center;
     position: relative;
